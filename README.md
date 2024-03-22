@@ -3,7 +3,7 @@
 **Digital Skills** Microsoft Office / Python / C++ / Java / R / CSS / C / HTML / Mobile Application Development: Android / MySQL / WordPress, Wix / Tableau / Linux / Versioning tools (Git, Github)
 
 ## Education		        		
-B.S., Computer Science | Balochistan University of IT Engineering and Management Sciences (2019-23_)
+B.S., Computer Science | Balochistan University of IT Engineering and Management Sciences (2019-23)
 Final grade: CGPA 3.77/4 
 
 ## Work Experience
@@ -45,8 +45,12 @@ development, natural language processing, and machine learning.
 
 
 ## Talks & Presentations
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-
+- Speech Competition (Sargodhian Spirit Trust Public School Rashidabad): [Source](https://wwwsheihkusama.wordpress.com/2015/02/26/annual-inter-house-bilingual-declamation-contest-2014/)
+- KEEN Guest Speaker (2022)
+- FM Radio Guest Speaker (2023): Role of Social Media
+- Research Paper Presenter: 18th Annual International Conference on Emerging Technologies (FAST NUCES, Peshawer, 2023)
+- Session Presenter: Workshop on Undergrad Education in Pakistan [Source](https://pk.linkedin.com/company/carlteck)
+- Session Presenter: Association for Computing Machinery, BUITEMS Chapter (2022-23)
 
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
