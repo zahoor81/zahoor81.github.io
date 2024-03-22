@@ -1,9 +1,9 @@
 # Computer Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Digital Skills: Microsoft Office / Python / C++ / Java / R / CSS / C / HTML / Mobile Application Development: Android / MySQL / WordPress, Wix / Tableau / Linux / Versioning tools (Git, Github)
 
 ## Education		        		
-B.S., Computer Science | Balochistan University of IT Engineering and Management Sciences (_Sep 2023_)
+B.S., Computer Science | Balochistan University of IT Engineering and Management Sciences (2019-23_)
 - Final grade: CGPA 3.77/4 
 
 ## Work Experience
@@ -20,32 +20,36 @@ B.S., Computer Science | Balochistan University of IT Engineering and Management
 
 **Digital Assistant @ Cyfire, Germany (Remote) (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis **Python** sub-phenotypes
 
 **Web Designer/Developer @ Oceanic Entertainment, Canada (Remote) (_December 2020 - Present_)**
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Crime Association Analysis: Association Rule Mining (_July 2023 – Jan 2024)
+We analyzed crime associations in KPK, Pakistan using five years of open-source data, applying ARM techniques like the
+Apriori algorithm and Frequent Pattern growth. Our study's findings are under review at the BTTN journal. [This project is
+under the supervision of Dr. Saima Gul]
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+### Image classification using TensorFlow (_Oct 2023 – Nov 2023)
+I classified local plant images with a deep learning model, enhancing my machine learning skills. Awarded 1 position at the
+University of Balochistan's Government Innovation Lab among 23 submissions.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+### Automatic Speech Recognition System for Urdu Language (_August 2022 – May 2023)
+For my Final Year Project, I designed and developed an Automatic Speech Recognition system for Urdu language on self-collected speech data and trained the model utilizing the Wav2Vec architecture ultimately achieving low Word Error Rate. The projected gained recognition from Control Automation and Robotics Lab and secured funding from Ignite National Technology Fund, Pakistan.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Instant Class Timing Teller: Android Project (_Nov 2022 – Jan 2023)
+Built the user-friendly Instant Class Timing Teller Android app using Java and Android Studio, leveraging various APIs and
+libraries for seamless class schedule management. Demonstrated expertise in Android app development and Java
+programming.
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+### Seventick Assistant: A Modern Chatbot (_Jan 2022 – April 2022)
+Built a Python chatbot for automated customer support and integrated it with a website. Demonstrated proficiency in chatbot
+development, natural language processing, and machine learning.
 
-![Bike Study](bike_study.jpeg)
 
 ## Talks, Presentations and Articles
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+
 
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
