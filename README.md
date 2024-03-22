@@ -4,27 +4,25 @@
 
 ## Education		        		
 B.S., Computer Science | Balochistan University of IT Engineering and Management Sciences (2019-23_)
-- Final grade: CGPA 3.77/4 
+Final grade: CGPA 3.77/4 
 
 ## Work Experience
 **Digital Associate @ United Bank Limited, Pakistan (_Jan 2024 - Present_)**
-- 
-
+As a digital associate, I analyze operational workflows, focusing on digital aspects, to identify and propose solutions to improve efficiency. The program selects ten candidates annually from across the country, offering exposure to different bank departments to provide fresh insights and perspectives.
 
 **IT Research & Development Intern @ Control Automation and Robotics Lab, Pakistan (_Aug 2022 - Sep 2023_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
+At CARL, my primary responsibility involved integrating the ASR model into the Social Mobile Autonomous Robot (SMART). Additionally, I supported my supervisor with research tasks and prototype development.
 
 **IT Support Lead @ Kasi Bahria Town, Pakistan (_Aug 2020 - Sep 2022_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+My responsibilities at Kasi Bahria Town encompassed assisting employees across eight regional offices with technical and network challenges. Additionally, I conducted real-time data analysis to anticipate customer traffic, thus enhancing employee scheduling. Moreover, I supervised software performance and communicated any identified bugs to the development team.
 
 **Digital Assistant @ Cyfire, Germany (Remote) (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis **Python** sub-phenotypes
+My primary task was to do business automation as well providing techincal support. 
 
 **Web Designer/Developer @ Oceanic Entertainment, Canada (Remote) (_December 2020 - Present_)**
+I began by developing a ticket portal for the company, facilitating the sale of event tickets. This initiative resulted in an annual profit increase of 13%. Additionally, I conducted market research and provided support in managing customer and employee data.
 
-## Projects
+## Selected Projects
 **Crime Association Analysis: Association Rule Mining (_July 2023 – Jan 2024)**
 We analyzed crime associations in KPK, Pakistan using five years of open-source data, applying ARM techniques like the
 Apriori algorithm and Frequent Pattern growth. Our study's findings are under review at the BTTN journal.
