@@ -51,6 +51,8 @@ development, natural language processing, and machine learning.
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Publications & Articles
-1. H. Mohiuddin, **Z. Ahmed**, M. Kasi and B. Kasi, "UrduSpeakXLSR: Multilingual Model for Urdu Speech Recognition," 2023 18th International Conference on Emerging Technologies (ICET), Peshawar, Pakistan, 2023, pp. 217-221, doi: 10.1109/ICET59753.2023.10374900. keywords: {Learning systems;Human computer interaction;Focusing;Robustness;Disruptive technologies;Automatic speech recognition;Automatic Speech Recognition;Urdu;XLSR-Wav2Vec;CommonVoice},
+1. H. Mohiuddin, **Z. Ahmed**, M. Kasi and B. Kasi, "UrduSpeakXLSR: Multilingual Model for Urdu Speech Recognition," 2023 18th International Conference on Emerging Technologies (ICET), Peshawar, Pakistan, 2023, pp. 217-221, doi: 10.1109/ICET59753.2023.10374900.
+2. Social Media and The Youth Protest Behaviour (Featured Article Voice of Balochistan, 2022): [Article](https://voiceofbalochistan.pk/newsletter/half-yearly-newsletter-2022/)
+3. Iqbal’s Concept of Individuals’ Significance in Nation Building (Featured Article Balochistan Think Tank Network, 2023): [Article](https://bttn.org.pk/commemorating-allama-iqbals-146th-brith-anniversary/)
 
 - [Seventick Blog](https://www.seventick.com)
