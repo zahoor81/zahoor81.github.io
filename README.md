@@ -16,10 +16,10 @@ At CARL, my primary responsibility involved integrating the ASR model into the S
 **IT Support Lead @ Kasi Bahria Town, Pakistan (_Aug 2020 - Sep 2022_)**
 My responsibilities at Kasi Bahria Town encompassed assisting employees across eight regional offices with technical and network challenges. Additionally, I conducted real-time data analysis to anticipate customer traffic, thus enhancing employee scheduling. Moreover, I supervised software performance and communicated any identified bugs to the development team.
 
-**Digital Assistant @ Cyfire, Germany (Remote) (_December 2020 - Present_)**
+**Digital Assistant @ Cyfire, Germany (Remote) (_Jun 2020 - Dec 2021)**
 My primary task was to do business automation as well providing techincal support. 
 
-**Web Designer/Developer @ Oceanic Entertainment, Canada (Remote) (_December 2020 - Present_)**
+**Web Designer/Developer @ Oceanic Entertainment, Canada (Remote) (_April 2021 - Dec 2021)**
 I began by developing a ticket portal for the company, facilitating the sale of event tickets. This initiative resulted in an annual profit increase of 13%. Additionally, I conducted market research and provided support in managing customer and employee data.
 
 ## Selected Projects
@@ -31,7 +31,7 @@ Apriori algorithm and Frequent Pattern growth. Our study's findings are under re
 I classified local plant images with a deep learning model, enhancing my machine learning skills. Awarded 1 position at the
 University of Balochistan's Government Innovation Lab among 23 submissions.
 
-**Automatic Speech Recognition System for Urdu Language (_August 2022 – May 2023)**
+**Automatic Speech Recognition System for Urdu Language (_Aug 2022 – May 2023)**
 For my Final Year Project, I designed and developed an Automatic Speech Recognition system for Urdu language on self-collected speech data and trained the model utilizing the Wav2Vec architecture ultimately achieving low Word Error Rate. The projected gained recognition from Control Automation and Robotics Lab and secured funding from Ignite National Technology Fund, Pakistan.
 
 **Instant Class Timing Teller: Android Project (_Nov 2022 – Jan 2023)**
@@ -51,7 +51,7 @@ development, natural language processing, and machine learning.
 - Research Paper Presenter: 18th Annual International Conference on Emerging Technologies (FAST NUCES, Peshawer, 2023)
 - Session Presenter: Workshop on Undergrad Education in Pakistan [Source](https://pk.linkedin.com/company/carlteck)
 - Session Presenter: Association for Computing Machinery, BUITEMS Chapter (2022-23)
-
+[Image](Zahoor Profile.jpeg)
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Publications & Articles
