@@ -59,4 +59,6 @@ development, natural language processing, and machine learning.
 2. Social Media and The Youth Protest Behaviour (Featured Article Voice of Balochistan, 2022): [Article](https://voiceofbalochistan.pk/newsletter/half-yearly-newsletter-2022/)
 3. Iqbal’s Concept of Individuals’ Significance in Nation Building (Featured Article Balochistan Think Tank Network, 2023): [Article](https://bttn.org.pk/commemorating-allama-iqbals-146th-brith-anniversary/)
 
+## Specializations, badges and Certificates
+
 - [Seventick Blog](https://www.seventick.com)
