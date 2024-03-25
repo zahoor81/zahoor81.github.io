@@ -59,6 +59,24 @@ development, natural language processing, and machine learning.
 2. Social Media and The Youth Protest Behaviour (Featured Article Voice of Balochistan, 2022): [Article](https://voiceofbalochistan.pk/newsletter/half-yearly-newsletter-2022/)
 3. Iqbal’s Concept of Individuals’ Significance in Nation Building (Featured Article Balochistan Think Tank Network, 2023): [Article](https://bttn.org.pk/commemorating-allama-iqbals-146th-brith-anniversary/)
 
+## Honours and Awards
+
 ## Specializations, badges and Certificates
 
+## Volunteering
+- Seventick: Empowering People via Technology (July 2021 - Present)
+Founder Seventick
+- PIE & AI Ambassador (Sep 2022 - Present)
+- IEEE BUITEMS Chapter: Mentoring students (Aug 2022 - Apr 2023)
+- Association for Computing Machinery BUITEMS Chapter (May 2021 - Dec 2022)
+- 
+## Hobbies and Interest
+- Reading (Favt book: The Alchemist)
+- Coding
+- Football (Favt player: Cristiano Ronaldo) 
+
+## Languages
+- Pashto (Monther tongue0
+- English (Fluent)
+- Urdu (Fluent)
 - [Seventick Blog](https://www.seventick.com)
