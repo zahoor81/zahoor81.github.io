@@ -60,6 +60,19 @@ development, natural language processing, and machine learning.
 3. Iqbal’s Concept of Individuals’ Significance in Nation Building (Featured Article Balochistan Think Tank Network, 2023): [Article](https://bttn.org.pk/commemorating-allama-iqbals-146th-brith-anniversary/)
 
 ## Honours and Awards
+- National Research Essay Competition (Nov 2023)
+Secured 2nd position
+Balochistan Think Tank Network
+- Inter-University Essay Writing Competition (Sep 2022)
+Represented BUITEMS
+Conducted by National Accountability Beureu, Pakistan)
+- Google HashCode (July 2022)
+Represented BUITEMS
+- Content Writer: Association of Computing Machinery (Nov 2022)
+- Essay Writing Competition (July 2021)
+Secured 1st Position
+Voice of Balochistan
+- Tech Writer: Voice of Balochistan (Jan 2022 - Present)
 
 ## Specializations, badges and Certificates
 
