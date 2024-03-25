@@ -69,7 +69,7 @@ Founder Seventick
 - PIE & AI Ambassador (Sep 2022 - Present)
 - IEEE BUITEMS Chapter: Mentoring students (Aug 2022 - Apr 2023)
 - Association for Computing Machinery BUITEMS Chapter (May 2021 - Dec 2022)
-- 
+  
 ## Hobbies and Interest
 - Reading (Favt book: The Alchemist)
 - Coding
