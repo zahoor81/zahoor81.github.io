@@ -1,4 +1,4 @@
-# Computer Scientist
+# Computer Science Graduate
 
 **Digital Skills** Microsoft Office / Python / C++ / Java / R / CSS / C / HTML / Mobile Application Development: Android / MySQL / WordPress, Wix / Tableau / Linux / Versioning tools (Git, Github)
 
@@ -60,6 +60,7 @@ development, natural language processing, and machine learning.
 3. Iqbal’s Concept of Individuals’ Significance in Nation Building (Featured Article Balochistan Think Tank Network, 2023): [Article](https://bttn.org.pk/commemorating-allama-iqbals-146th-brith-anniversary/)
 
 ## Honours and Awards
+- Best Final Year Project recognition and funding: Ignite Funding Pakistan (2023)
 - National Research Essay Competition (Nov 2023)
 Secured 2nd position
 Balochistan Think Tank Network
@@ -92,4 +93,5 @@ Founder Seventick
 - Pashto (Monther tongue0
 - English (Fluent)
 - Urdu (Fluent)
-- [Seventick Blog](https://www.seventick.com)
+
+[Seventick Blog](https://www.seventick.com)
