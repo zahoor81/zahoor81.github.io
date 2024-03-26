@@ -198,4 +198,6 @@ Founder Seventick
 - English (Fluent)
 - Urdu (Fluent)
 
+**Gallery**
+
 [Seventick Blog](https://www.seventick.com)
