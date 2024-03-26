@@ -99,6 +99,7 @@ University of Toronto (Jan 2022)
 [Certificate](images/Learn to Program .jpeg)
 - **Crash Course on Python**
 Google (Apr 2022)
+[Certificate](images/crash course on python.jpeg)
 - **Machine Learning with Python from IBM**
 IBM (May 2022)
 [Certificate](images/Machine_Learning_with_Python_Badge20240326-29-8ampji_page-0001.jpg)
