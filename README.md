@@ -82,12 +82,18 @@ Voice of Balochistan
 Founder Seventick
 - PIE & AI Ambassador (Sep 2022 - Present)
 - IEEE BUITEMS Chapter: Mentoring students (Aug 2022 - Apr 2023)
+- Quetta Literary Festival (2022)
 - Association for Computing Machinery BUITEMS Chapter (May 2021 - Dec 2022)
+- KEEN Society: Youth ambassador (2022 - Present)
+- State Bank of Pakistan: Youth Ambassador for Digital Literacy (2022)
+- Tech trends reporter: Voice of Balochistan (2022 - Present)
+- The United Nations Educational, Scientific and Cultural Organization (Mar 2022)
+- Member of BUITEMS Literary Club (Nov 2021 - Dec 2022)
   
 ## Hobbies and Interest
-- Reading (Favt book: The Alchemist)
-- Coding
-- Football (Favt player: Cristiano Ronaldo) 
+- Reading (Favorite book: The Alchemist)
+- Exploring tech trends
+- Football (Favorite player: Son Heung-min) 
 
 ## Languages
 - Pashto (Monther tongue0
