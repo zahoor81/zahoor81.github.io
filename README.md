@@ -83,7 +83,7 @@ Harvard Business School (Jan 2024 - Present)
 Virtual University of Pakistan (Feb 2024)
 - **Google Data Analytics Professional Certificate**
 Google (Mar 2023)
-[Certificate]
+[Certificate](images/Google Data Analytics Certificate Zahoor Ahmed.jpg)
 - **Research Paper Presenter**
 International Conference for Emerging Technologies, FAST NUCES, Peshawer (Nov 2023)
 - **National Research Essay Competition**
