@@ -77,77 +77,70 @@ Voice of Balochistan
 
 ## Specializations, badges and Certificates
 
-- Aspire Leadership Program
+- **Aspire Leadership Program**
 Harvard Business School (Jan 2024 - Present)
-- Data Analytics and Business Intelligence
+- **Data Analytics and Business Intelligence**
 Virtual University of Pakistan (Feb 2024)
-- Introduction to Cyber Security
-
-- Research Paper Presenter
+- **Research Paper Presenter**
 International Conference for Emerging Technologies, FAST NUCES, Peshawer (Nov 2023)
-- National Research Essay Competition
+- **National Research Essay Competition**
 Balochistan Think Tank Network (Nov 2023)
-- Essay Writing Competition: Voice of Balochistan (Jun 2022) 
+- **Essay Writing Competition**: Voice of Balochistan (Jun 2022) 
 Secured 1st position, article published in magazine
-- Essay Writing Competition: National Accountability Bureau (Mar 2023)
+- **Essay Writing Competition**: National Accountability Bureau (Mar 2023)
 Represented BUITEMS
-- Content Writer: Association for Computing Machinery
+- **Content Writer**: Association for Computing Machinery
 BUITEMS Students Chapter (2022-23)
-
-- Learn to Program: The Fundementals
+- **Learn to Program: The Fundementals**
 University of Toronto (Jan 2022)
-- Crash Course on Python
+- **Crash Course on Python**
 Google (Apr 2022)
-- Machine Learning with Python from IBM
+- **Machine Learning with Python from IBM**
 IBM (May 2022)
-- Introduction to Artificial Intelligence
+- **Introduction to Artificial Intelligence**
 IBM (Aug 2021)
-- Relational Databases Essentials
+- **Relational Databases Essentials**
 IBM (Apr 2022)
-- Elements of AI
+- **Elements of AI**
 University of Helsinki (Feb 2022)
 - PIE & AI Ambassador (2022)
-- Big Data Artificial Intelligence, and Ethics
+- **Big Data Artificial Intelligence, and Ethics**
 UC Davis (Dec 2021)
-
-- Computational Social Science Method 
+- **Computational Social Science Method** 
 Coursera (Mar 2022)
-
-
-- Introduction to Cybersecurity
+- **Introduction to Cybersecurity**
 Cisco Networking Academy (Jun 2022)
-- Cybersecurity and the Internet of Things
+- **Cybersecurity and the Internet of Things**
 Kennesaw State Univeristy (Mar 2021)
-- Security and Privacy for Big Data
+- **Security and Privacy for Big Data**
 EIT Digital (Jul 2022)
-
-- Google Hashcode (Mar 2022)
-- Workshop on Undergrad STEM Education in Pakistan
+- **Google Hashcode (Mar 2022)**
+- **Workshop on Undergrad STEM Education in Pakistan**
 British Council (Jun 2022)
-
-- International Education Olympiad
+- **International Education Olympiad**
 Noble Testing & Processing Agency (Jun 2022)
-
-- Introduction to Public Speaking
+- **Technical Writing Workshop**
+Elixir Technologies (Dec 2022)
+- **Introduction to Public Speaking**
 Coursera (2021)
-- Introduction to Psychology
+- **Introduction to Psychology**
 Yale (Jul 2020)
-- Cracking the Creativity Code: Discovering Ideas
+- **Cracking the Creativity Code: Discovering Ideas**
 Technion Isreal Institue of Technology (Sep 2020)
-- Renewable Energy and Green building Entrepreneurship
-- Creative Thinking: Techniques and Tools for Success
+- **Renewable Energy and Green building Entrepreneurship**
+- **Creative Thinking: Techniques and Tools for Success**
 Imperial College London (Apr 2022)
-- Mindshift: Break through Obstacles to Learning and and Discover Your Hidden Potential
+- **Mindshift: Break through Obstacles to Learning and and Discover Your Hidden Potential**
 McMaster University (May 2022)
-- Excel Skills for Business Essentials
+- **Excel Skills for Business Essentials**
 Coursera (2021)
-- Introduction to HTML5
+- **Introduction to HTML5**
 University of Michigan (May 2022)
-- English Composition 1
+- **English Composition 1**
 Duke University (Apr 2022)
-- Wordpress Specilization
+- **Wordpress Specilization**
 Digiskills, Pakistan (Sep 2020)
-- Use Wordpress to create a Blog for your Business
+- **Use Wordpress to create a Blog for your Business**
 Coursera Project Network (May 2021)
 
 ## Volunteering
