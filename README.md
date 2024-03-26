@@ -147,6 +147,7 @@ Imperial College London (Apr 2022)
 [Certificate](images/Imperial College London.jpeg)
 - **Mindshift: Break through Obstacles to Learning and and Discover Your Hidden Potential**
 McMaster University (May 2022)
+[Certificate](images/Mindshift craft.jpeg)
 - **Excel Skills for Business Essentials**
 Coursera (2021)
 - **Introduction to HTML5**
