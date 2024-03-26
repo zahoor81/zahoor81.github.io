@@ -91,6 +91,7 @@ Balochistan Think Tank Network (Nov 2023): Secured 2nd position
 [Certificate](images/bttn.jpeg)
 - **Research Essay Writing Competition**: Voice of Balochistan (Jun 2022) 
 Secured 1st position, article published in magazine
+[Certificate](images/vob.jpeg)
 - **National Essay Writing Competition**: National Accountability Bureau (Mar 2023)
 Represented BUITEMS
 - **Content Writer**: Association for Computing Machinery
