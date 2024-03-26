@@ -87,7 +87,8 @@ Google (Mar 2023)
 - **Research Paper Presenter**
 International Conference for Emerging Technologies, FAST NUCES, Peshawer (Nov 2023)
 - **National Research Essay Competition**
-Balochistan Think Tank Network (Nov 2023)
+Balochistan Think Tank Network (Nov 2023): Secured 2nd position
+[Certificate](images/bttn.jpeg)
 - **Research Essay Writing Competition**: Voice of Balochistan (Jun 2022) 
 Secured 1st position, article published in magazine
 - **National Essay Writing Competition**: National Accountability Bureau (Mar 2023)
