@@ -135,6 +135,7 @@ British Council (Jun 2022)
 Noble Testing & Processing Agency (Jun 2022)
 - **Technical Writing Workshop**
 Elixir Technologies (Dec 2022)
+[Certificate](images/elxir.jpeg)
 - **Introduction to Public Speaking**
 Coursera (2021)
 - **Introduction to Psychology**
