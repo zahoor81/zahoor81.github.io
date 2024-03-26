@@ -143,7 +143,8 @@ Noble Testing & Processing Agency (Jun 2022)
 Elixir Technologies (Dec 2022)
 [Certificate](images/elxir.jpeg)
 - **Introduction to Public Speaking**
-Coursera (2021)
+University of Washington (2021)
+[Certificate](images/18.jpeg)
 - **Introduction to Psychology**
 Yale (Jul 2020)
 - **Cracking the Creativity Code: Discovering Ideas**
