@@ -3,9 +3,9 @@
 **Digital Skills** Microsoft Office / Python / C++ / Java / R / CSS / C / HTML / Mobile Application Development: Android / MySQL / WordPress, Wix / Tableau / Linux / Versioning tools (Git, Github)
 
 ## Education		        		
-B.S., Computer Science | Balochistan University of IT Engineering and Management Sciences (2019-23)
+B.S Computer Science | Balochistan University of IT Engineering and Management Sciences (2019-23)
 Final grade: CGPA 3.77/4 
-
+[Program Schema](https://www.buitms.edu.pk/Computer-Science)
 ## Work Experience
 **Digital Associate @ United Bank Limited, Pakistan (Jan 2024 - Present_)**
 As a digital associate, I analyze operational workflows, focusing on digital aspects, to identify and propose solutions to improve efficiency. The program selects ten candidates annually from across the country, offering exposure to different bank departments to provide fresh insights and perspectives.
