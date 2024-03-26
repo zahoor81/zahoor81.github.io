@@ -88,9 +88,9 @@ Google (Mar 2023)
 International Conference for Emerging Technologies, FAST NUCES, Peshawer (Nov 2023)
 - **National Research Essay Competition**
 Balochistan Think Tank Network (Nov 2023)
-- **Essay Writing Competition**: Voice of Balochistan (Jun 2022) 
+- **Research Essay Writing Competition**: Voice of Balochistan (Jun 2022) 
 Secured 1st position, article published in magazine
-- **Essay Writing Competition**: National Accountability Bureau (Mar 2023)
+- **National Essay Writing Competition**: National Accountability Bureau (Mar 2023)
 Represented BUITEMS
 - **Content Writer**: Association for Computing Machinery
 BUITEMS Students Chapter (2022-23)
@@ -105,6 +105,7 @@ IBM (May 2022)
 IBM (Aug 2021)
 - **Relational Databases Essentials**
 IBM (Apr 2022)
+[Certificate](images/Relational_Databases__RDBMS__Essentials_Badge20240326-29-v7pd8o_page-0001.jpg)
 - **Elements of AI**
 University of Helsinki (Feb 2022)
 - PIE & AI Ambassador (2022)
