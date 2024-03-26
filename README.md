@@ -147,6 +147,7 @@ University of Washington (2021)
 [Certificate](images/18.jpeg)
 - **Introduction to Psychology**
 Yale (Jul 2020)
+[Certificate](images/17.jpeg)
 - **Cracking the Creativity Code: Discovering Ideas**
 Technion Isreal Institue of Technology (Sep 2020)
 [Certificate](images/Technion.jpeg)
