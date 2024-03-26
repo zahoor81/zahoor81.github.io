@@ -130,6 +130,7 @@ Kennesaw State Univeristy (Mar 2021)
 EIT Digital (Jul 2022)
 [Certificate](images/security and privacy for big data.jpeg)
 - **Google Hashcode (Mar 2022)**
+[Certificate](images/c.png)
 - **Workshop on Undergrad STEM Education in Pakistan**
 British Council (Jun 2022)
 [Certificate](images/British Council.jpeg)
