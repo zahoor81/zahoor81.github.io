@@ -100,6 +100,7 @@ University of Toronto (Jan 2022)
 Google (Apr 2022)
 - **Machine Learning with Python from IBM**
 IBM (May 2022)
+[Certificate](images/Machine_Learning_with_Python_Badge20240326-29-8ampji_page-0001.jpg)
 - **Introduction to Artificial Intelligence**
 IBM (Aug 2021)
 - **Relational Databases Essentials**
