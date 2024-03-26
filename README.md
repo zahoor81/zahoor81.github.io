@@ -154,6 +154,7 @@ Duke University (Apr 2022)
 Digiskills, Pakistan (Sep 2020)
 - **Use Wordpress to create a Blog for your Business**
 Coursera Project Network (May 2021)
+[Certificate](images/user wordpress.jpeg)
 
 ## Volunteering
 - Seventick: Empowering People via Technology (July 2021 - Present)
