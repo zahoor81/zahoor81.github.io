@@ -140,6 +140,7 @@ Coursera (2021)
 Yale (Jul 2020)
 - **Cracking the Creativity Code: Discovering Ideas**
 Technion Isreal Institue of Technology (Sep 2020)
+[Certificate](images/Technion.jpeg)
 - **Renewable Energy and Green building Entrepreneurship**
 Duke University (Jun 2021)
 [Certificate](images/renewable energy.jpeg)
