@@ -140,6 +140,8 @@ Yale (Jul 2020)
 - **Cracking the Creativity Code: Discovering Ideas**
 Technion Isreal Institue of Technology (Sep 2020)
 - **Renewable Energy and Green building Entrepreneurship**
+Duke University (Jun 2021)
+[Certificate](images/renewable energy.jpeg)
 - **Creative Thinking: Techniques and Tools for Success**
 Imperial College London (Apr 2022)
 [Certificate](images/Imperial College London.jpeg)
