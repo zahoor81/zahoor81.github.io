@@ -7,13 +7,13 @@ B.S Computer Science | Balochistan University of IT Engineering and Management S
 Final grade: CGPA 3.77/4 
 [Program Schema](https://www.buitms.edu.pk/Computer-Science)
 ## Work Experience
-**Digital Associate @ United Bank Limited, Pakistan (Jan 2024 - Present_)**
+**Digital Associate @ United Bank Limited, Pakistan (Jan 2024 - Present)**
 As a digital associate, I analyze operational workflows, focusing on digital aspects, to identify and propose solutions to improve efficiency. The program selects ten candidates annually from across the country, offering exposure to different bank departments to provide fresh insights and perspectives.
 
 **IT Research & Development Intern @ Control Automation and Robotics Lab, Pakistan (Aug 2022 - Sep 2023_)**
 At CARL, my primary responsibility involved integrating the ASR model into the Social Mobile Autonomous Robot (SMART). Additionally, I supported my supervisor with research tasks and prototype development.
 
-**IT Support Lead @ Kasi Bahria Town, Pakistan (Aug 2020 - Sep 2022_)**
+**IT Support Lead @ Kasi Bahria Town, Pakistan (Aug 2020 - Sep 2022)**
 My responsibilities at Kasi Bahria Town encompassed assisting employees across eight regional offices with technical and network challenges. Additionally, I conducted real-time data analysis to anticipate customer traffic, thus enhancing employee scheduling. Moreover, I supervised software performance and communicated any identified bugs to the development team.
 
 **Digital Assistant @ Cyfire, Germany (Remote) (Jun 2020 - Dec 2021)**
@@ -94,6 +94,7 @@ Secured 1st position, article published in magazine
 [Certificate](images/vob.jpeg)
 - **National Essay Writing Competition**: National Accountability Bureau (Mar 2023)
 Represented BUITEMS
+[Certificate](images/NAB.jpeg)
 - **Content Writer**: Association for Computing Machinery
 BUITEMS Students Chapter (2022-23)
 - **Learn to Program: The Fundementals**
