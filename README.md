@@ -86,6 +86,7 @@ Google (Mar 2023)
 [Certificate](images/Google Data Analytics Certificate Zahoor Ahmed.jpg)
 - **Research Paper Presenter**
 International Conference for Emerging Technologies, FAST NUCES, Peshawer (Nov 2023)
+[Certificate](images/pes.jpeg)
 - **National Research Essay Competition**
 Balochistan Think Tank Network (Nov 2023): Secured 2nd position
 [Certificate](images/bttn.jpeg)
