@@ -113,6 +113,7 @@ UC Davis (Dec 2021)
 Coursera (Mar 2022)
 - **Introduction to Cybersecurity**
 Cisco Networking Academy (Jun 2022)
+[Certificate](images/Introduction_to_Cybersecurity_Badge20240326-40-qkfs1t_page-0001.jpg)
 - **Cybersecurity and the Internet of Things**
 Kennesaw State Univeristy (Mar 2021)
 - **Security and Privacy for Big Data**
