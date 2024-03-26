@@ -98,6 +98,7 @@ Represented BUITEMS
 [Certificate](images/NAB.jpeg)
 - **Content Writer**: Association for Computing Machinery
 BUITEMS Students Chapter (2022-23)
+[Certificate](images/ACM.jpeg)
 - **Learn to Program: The Fundementals**
 University of Toronto (Jan 2022)
 [Certificate](images/Learn to Program .jpeg)
