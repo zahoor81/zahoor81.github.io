@@ -77,6 +77,49 @@ Voice of Balochistan
 
 ## Specializations, badges and Certificates
 
+- Aspire Leadership Program
+Harvard Business School (Jan 2024 - Present)
+- Data Analytics and Business Intelligence
+Virtual University of Pakistan (Feb 2024)
+- Introduction to Cyber Security
+
+- Research Paper Presenter
+International Conference for Emerging Technologies, FAST NUCES, Peshawer (Nov 2023)
+- National Research Essay Competition
+Balochistan Think Tank Network (Nov 2023)
+
+- Machine Learning with Python from IBM
+IBM (May 2022)
+- Relational Databases Essentials
+IBM (Apr 2022)
+- Elements of AI
+University of Helsinki (Feb 2022)
+
+- Big Data Artificial Intelligence, and Ethics
+Cousera (Dec 2021)
+
+- Computational Social Science Method 
+Coursera (Mar 2022)
+
+
+- Cybersecurity and the Internet of Things
+Cisco Networking Academy (Jun 2022)
+
+- Google Hashcode (Mar 2022)
+- Workshop on Undergrad STEM Education in Pakistan
+British Council (Jun 2022)
+
+- International Education Olympiad
+Noble Testing & Processing Agency (Jun 2022)
+
+- Introduction to Public Speaking
+Coursera (2021)
+- Excel Skills for Business Essentials
+Coursera (2021)
+
+- Wordpress Specilization
+Digiskills, Pakistan (Sep 2020)
+
 ## Volunteering
 - Seventick: Empowering People via Technology (July 2021 - Present)
 Founder Seventick
