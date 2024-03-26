@@ -81,6 +81,9 @@ Voice of Balochistan
 Harvard Business School (Jan 2024 - Present)
 - **Data Analytics and Business Intelligence**
 Virtual University of Pakistan (Feb 2024)
+- **Google Data Analytics Professional Certificate**
+Google (Mar 2023)
+[Certificate]
 - **Research Paper Presenter**
 International Conference for Emerging Technologies, FAST NUCES, Peshawer (Nov 2023)
 - **National Research Essay Competition**
