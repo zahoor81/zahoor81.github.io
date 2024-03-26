@@ -113,6 +113,7 @@ University of Helsinki (Feb 2022)
 UC Davis (Dec 2021)
 - **Computational Social Science Method** 
 Coursera (Mar 2022)
+[Certificate](images/Computational Social Science Methods.jpeg)
 - **Introduction to Cybersecurity**
 Cisco Networking Academy (Jun 2022)
 [Certificate](images/Introduction_to_Cybersecurity_Badge20240326-40-qkfs1t_page-0001.jpg)
