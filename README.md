@@ -139,6 +139,7 @@ Technion Isreal Institue of Technology (Sep 2020)
 - **Renewable Energy and Green building Entrepreneurship**
 - **Creative Thinking: Techniques and Tools for Success**
 Imperial College London (Apr 2022)
+[Certificate](images/Imperial College London.jpeg)
 - **Mindshift: Break through Obstacles to Learning and and Discover Your Hidden Potential**
 McMaster University (May 2022)
 - **Excel Skills for Business Essentials**
