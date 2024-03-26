@@ -75,7 +75,7 @@ Secured 1st Position
 Voice of Balochistan
 - Tech Writer: Voice of Balochistan (Jan 2022 - Present)
 
-## Specializations, badges and Certificates
+## Certifications
 
 - **Aspire Leadership Program**
 Harvard Business School (Jan 2024 - Present)
