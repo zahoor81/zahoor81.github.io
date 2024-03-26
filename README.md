@@ -154,6 +154,7 @@ McMaster University (May 2022)
 Coursera (2021)
 - **Introduction to HTML5**
 University of Michigan (May 2022)
+[Certificate](images/Intro to HTML5.jpeg)
 - **English Composition 1**
 Duke University (Apr 2022)
 - **Wordpress Specilization**
