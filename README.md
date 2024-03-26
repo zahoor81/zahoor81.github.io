@@ -96,6 +96,7 @@ Represented BUITEMS
 BUITEMS Students Chapter (2022-23)
 - **Learn to Program: The Fundementals**
 University of Toronto (Jan 2022)
+[Certificate](images/Learn to Program .jpeg)
 - **Crash Course on Python**
 Google (Apr 2022)
 - **Machine Learning with Python from IBM**
