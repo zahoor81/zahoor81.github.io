@@ -123,6 +123,7 @@ Cisco Networking Academy (Jun 2022)
 [Certificate](images/Introduction_to_Cybersecurity_Badge20240326-40-qkfs1t_page-0001.jpg)
 - **Cybersecurity and the Internet of Things**
 Kennesaw State Univeristy (Mar 2021)
+[Certificate](images/Cybersecurity and internet of things.jpeg)
 - **Security and Privacy for Big Data**
 EIT Digital (Jul 2022)
 [Certificate](images/security and privacy for big data.jpeg)
