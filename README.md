@@ -199,5 +199,6 @@ Founder Seventick
 - Urdu (Fluent)
 
 **Gallery**
+[Representing ACM in Quetta Literary Festival 2022](images/Rep acm.jpeg)
 
 [Seventick Blog](https://www.seventick.com)
