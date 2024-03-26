@@ -132,6 +132,7 @@ EIT Digital (Jul 2022)
 - **Google Hashcode (Mar 2022)**
 - **Workshop on Undergrad STEM Education in Pakistan**
 British Council (Jun 2022)
+[Certificate](images/British Council.jpeg)
 - **International Education Olympiad**
 Noble Testing & Processing Agency (Jun 2022)
 - **Technical Writing Workshop**
