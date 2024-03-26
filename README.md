@@ -112,6 +112,7 @@ University of Helsinki (Feb 2022)
 - PIE & AI Ambassador (2022)
 - **Big Data Artificial Intelligence, and Ethics**
 UC Davis (Dec 2021)
+[Certificate](images/Big Data AI and Ethics.jpeg)
 - **Computational Social Science Method** 
 Coursera (Mar 2022)
 [Certificate](images/Computational Social Science Methods.jpeg)
