@@ -160,6 +160,7 @@ McMaster University (May 2022)
 [Certificate](images/Mindshift craft.jpeg)
 - **Excel Skills for Business Essentials**
 Coursera (2021)
+[Certificate](images/Excel cert.jpeg)
 - **Introduction to HTML5**
 University of Michigan (May 2022)
 [Certificate](images/Intro to HTML5.jpeg)
