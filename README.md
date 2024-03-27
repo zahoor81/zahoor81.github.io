@@ -166,6 +166,7 @@ Duke University (Apr 2022)
 [Coursera](images/1.jpg)
 - **Wordpress Specilization**
 Digiskills, Pakistan (Sep 2020)
+[Certificate](images/a.png)
 - **Use Wordpress to create a Blog for your Business**
 Coursera Project Network (May 2021)
 [Certificate](images/user wordpress.jpeg)
