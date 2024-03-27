@@ -196,10 +196,15 @@ Founder Seventick
 - Urdu (Fluent)
 
 ## Recent Activities
+**Selected Articles for Reading**
+
+**Selected Books for Reading**
+
+**Interested Courses**
 
 **Gallery**
 [Representing ACM in Quetta Literary Festival 2022](images/Rep acm.jpeg)
 
 [Seventick Blog](https://www.seventick.com)
 [Contact](zachakzai@acm.org)
-[LinkedIn)(https://pk.linkedin.com/in/zahoor-ahmed-0a7793209)
+[LinkedIn](https://pk.linkedin.com/in/zahoor-ahmed-0a7793209)
