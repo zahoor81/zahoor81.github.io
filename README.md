@@ -1,4 +1,4 @@
-# Computer Science Graduate
+## Recent Activities
 
 **Digital Skills** Microsoft Office / Python / C++ / Java / R / CSS / C / HTML / Mobile Application Development: Android / MySQL / WordPress, Wix / Tableau / Linux / Versioning tools (Git, Github)
 
@@ -194,7 +194,7 @@ Founder Seventick
 - Football (Favorite player: Son Heung-min) 
 
 ## Languages
-- Pashto (Monther tongue0
+- Pashto (Monther tongue)
 - English (Fluent)
 - Urdu (Fluent)
 
@@ -202,3 +202,5 @@ Founder Seventick
 [Representing ACM in Quetta Literary Festival 2022](images/Rep acm.jpeg)
 
 [Seventick Blog](https://www.seventick.com)
+[Contact](zachakzai@acm.org)
+[LinkedIn)(https://pk.linkedin.com/in/zahoor-ahmed-0a7793209)
