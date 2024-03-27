@@ -7,7 +7,7 @@ Final grade: CGPA 3.77/4
 **Digital Associate @ United Bank Limited, Pakistan (Jan 2024 - Present)**
 As a digital associate, I analyze operational workflows, focusing on digital aspects, to identify and propose solutions to improve efficiency. The program selects ten candidates annually from across the country, offering exposure to different bank departments to provide fresh insights and perspectives.
 
-**IT Research & Development Intern @ Control Automation and Robotics Lab, Pakistan (Aug 2022 - Sep 2023_)**
+**IT Research & Development Intern @ Control Automation and Robotics Lab, Pakistan (Aug 2022 - Sep 2023)**
 At CARL, my primary responsibility involved integrating the ASR model into the Social Mobile Autonomous Robot (SMART). Additionally, I supported my supervisor with research tasks and prototype development.
 
 **IT Support Lead @ Kasi Bahria Town, Pakistan (Aug 2020 - Sep 2022)**
@@ -205,10 +205,11 @@ Founder Seventick
 [Certificate Ceremony BTTN: Prof. Dr. Khalid Hafeez](images/price reciv.jpeg)   
 [Check Recieving Ceremony - Brig Agha Ahmad Gul (R)](images/Check recv.jpeg)  
 [Talk at BTTN Center](images/BTTN SPEECH.jpeg)  
-[Digital Lab UBL, Karachi. Group photo: Jan 2024](images/Level up.jpeg)
-[Presenting Paper at FAST NUCES, Peshawer: ICET 2023](images/ICET.jpeg)
-[ICET Certificate Distribution Ceremony](images/icet cert.jpeg)
-[ICET Certificate Interective Session](images/Talk seesion icet.jpeg)
+[Digital Lab UBL, Karachi. Group photo: Jan 2024](images/Level up.jpeg)  
+[Presenting Paper at FAST NUCES, Peshawer: ICET 2023](images/ICET.jpeg)  
+[ICET Certificate Distribution Ceremony](images/icet cert.jpeg)  
+[ICET Certificate Interective Session](images/Talk seesion icet.jpeg)  
+[Presenting Research to Team Lead at Governement Innovation Lab, University of Balochistan: Nov 2023](images/UOB.jpeg)
 
 [Seventick Blog](https://www.seventick.com)
 [Contact](zachakzai@acm.org)
