@@ -204,6 +204,7 @@ Founder Seventick
 
 **Gallery**
 [Representing ACM in Quetta Literary Festival 2022](images/Rep acm.jpeg)
+[Group photo: Balochistan Think Tank Network](images/BTTN Group phto.jpeg)
 
 [Seventick Blog](https://www.seventick.com)
 [Contact](zachakzai@acm.org)
