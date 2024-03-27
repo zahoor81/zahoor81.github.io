@@ -210,6 +210,7 @@ Founder Seventick
 [ICET Certificate Distribution Ceremony](images/icet cert.jpeg)  
 [ICET Certificate Interective Session](images/Talk seesion icet.jpeg)  
 [Presenting Research to Team Lead at Governement Innovation Lab, University of Balochistan: Nov 2023](images/UOB.jpeg)
+[ACM Certificate Recieving Ceremony: Dr. Mahmood Khan Baryalai](images/ACM Cert.jpeg)
 
 [Seventick Blog](https://www.seventick.com)
 [Contact](zachakzai@acm.org)
