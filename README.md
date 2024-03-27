@@ -212,6 +212,7 @@ Founder Seventick
 [Presenting Research to Team Lead at Governement Innovation Lab, University of Balochistan: Nov 2023](images/UOB.jpeg)
 [ACM Certificate Recieving Ceremony: Dr. Mahmood Khan Baryalai](images/ACM Cert.jpeg)
 [Graduation Ceremony: BUITEMS 2023](images/Grad cerm buitems.jpeg)
+[Live Radion Session on Social Media and its pros and cons](images/Radio.jpeg)
 
 [Seventick Blog](https://www.seventick.com)
 [Contact](zachakzai@acm.org)
