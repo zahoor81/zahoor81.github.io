@@ -207,6 +207,7 @@ Founder Seventick
 [Talk at BTTN Center](images/BTTN SPEECH.jpeg)  
 [Digital Lab UBL, Karachi. Group photo: Jan 2024](images/Level up.jpeg)
 [Presenting Paper at FAST NUCES, Peshawer: ICET 2023](images/ICET.jpeg)
+[ICET Certificate Distribution Ceremony](images/icet cert.jpeg)
 
 [Seventick Blog](https://www.seventick.com)
 [Contact](zachakzai@acm.org)
