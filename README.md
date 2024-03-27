@@ -206,7 +206,7 @@ Founder Seventick
 [Check Recieving Ceremony - Brig Agha Ahmad Gul (R)](images/Check recv.jpeg)  
 [Talk at BTTN Center](images/BTTN SPEECH.jpeg)  
 [Digital Lab UBL, Karachi. Group photo: Jan 2024](images/Level up.jpeg)
-
+[Presenting Paper at FAST NUCES, Peshawer: ICET 2023](images/ICET.jpeg)
 
 [Seventick Blog](https://www.seventick.com)
 [Contact](zachakzai@acm.org)
