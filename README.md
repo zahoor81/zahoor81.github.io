@@ -213,7 +213,7 @@ Founder Seventick
 [ACM Certificate Recieving Ceremony: Dr. Mahmood Khan Baryalai](images/ACM Cert.jpeg)
 [Graduation Ceremony: BUITEMS 2023](images/Grad cerm buitems.jpeg)
 [Live Radion Session on Social Media and its pros and cons](images/Radio.jpeg)
-
+[Hosting ACM Workshop 2022](images/acm workshop.jpeg)
 [Seventick Blog](https://www.seventick.com)
 [Contact](zachakzai@acm.org)
 [LinkedIn](https://pk.linkedin.com/in/zahoor-ahmed-0a7793209)
