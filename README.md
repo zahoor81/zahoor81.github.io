@@ -217,6 +217,7 @@ Founder Seventick
 [Hosting ACM Workshop 2022](images/acm workshop.jpeg)  
 [ACM Group Photo](images/acm group photo.jpeg)  
 [Workshop on Undergrad Education in Pakistan: Group Photo](images/Undergard stem.jpeg)  
+[Undergrad Education in Pakistan: Certificate Ceremony](images/stem cert rec.jpeg)  
 [Seventick Blog](https://www.seventick.com)  
 [Contact](zachakzai@acm.org)  
 [LinkedIn](https://pk.linkedin.com/in/zahoor-ahmed-0a7793209)  
