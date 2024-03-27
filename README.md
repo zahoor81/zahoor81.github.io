@@ -48,10 +48,11 @@ development, natural language processing, and machine learning.
 - Research Paper Presenter: 18th Annual International Conference on Emerging Technologies (FAST NUCES, Peshawer, 2023)
 - Session Presenter: Workshop on Undergrad Education in Pakistan [Source](https://pk.linkedin.com/company/carlteck)
 - Session Presenter: Association for Computing Machinery, BUITEMS Chapter (2022-23)
+
 ## Publications & Articles
-1. H. Mohiuddin, **Z. Ahmed**, M. Kasi and B. Kasi, "UrduSpeakXLSR: Multilingual Model for Urdu Speech Recognition," 2023 18th International Conference on Emerging Technologies (ICET), Peshawar, Pakistan, 2023, pp. 217-221, doi: 10.1109/ICET59753.2023.10374900.
-2. Social Media and The Youth Protest Behaviour (Featured Article Voice of Balochistan, 2022): [Article](https://voiceofbalochistan.pk/newsletter/half-yearly-newsletter-2022/)
-3. Iqbal’s Concept of Individuals’ Significance in Nation Building (Featured Article Balochistan Think Tank Network, 2023): [Article](https://bttn.org.pk/commemorating-allama-iqbals-146th-brith-anniversary/)
+- H. Mohiuddin, **Z. Ahmed**, M. Kasi and B. Kasi, "UrduSpeakXLSR: Multilingual Model for Urdu Speech Recognition," 2023 18th International Conference on Emerging Technologies (ICET), Peshawar, Pakistan, 2023, pp. 217-221, doi: 10.1109/ICET59753.2023.10374900.
+- Social Media and The Youth Protest Behaviour (Featured Article Voice of Balochistan, 2022): [Article](https://voiceofbalochistan.pk/newsletter/half-yearly-newsletter-2022/)
+- Iqbal’s Concept of Individuals’ Significance in Nation Building (Featured Article Balochistan Think Tank Network, 2023): [Article](https://bttn.org.pk/commemorating-allama-iqbals-146th-brith-anniversary/)
 
 ## Honours and Awards
 - Best Final Year Project recognition and funding: Ignite Funding Pakistan (2023)
@@ -214,8 +215,8 @@ Founder Seventick
 [Graduation Ceremony: BUITEMS 2023](images/Grad cerm buitems.jpeg)  
 [Live Radion Session on Social Media and its pros and cons](images/Radio.jpeg)  
 [Hosting ACM Workshop 2022](images/acm workshop.jpeg)  
-[ACM Group Photo](images/acm group photo.jpeg)
-
-[Seventick Blog](https://www.seventick.com)
-[Contact](zachakzai@acm.org)
-[LinkedIn](https://pk.linkedin.com/in/zahoor-ahmed-0a7793209)
+[ACM Group Photo](images/acm group photo.jpeg)  
+[Workshop on Undergrad Education in Pakistan: Group Photo](images/Undergard stem.jpeg)  
+[Seventick Blog](https://www.seventick.com)  
+[Contact](zachakzai@acm.org)  
+[LinkedIn](https://pk.linkedin.com/in/zahoor-ahmed-0a7793209)  
