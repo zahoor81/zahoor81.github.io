@@ -222,6 +222,6 @@ Founder Seventick
 [Hosting session on Website Developement at BUITEMS](images/Web dev host.jpeg)  
 
 **Contact**  
-[Seventick Blog](https://www.seventick.com)  
-[Contact](zachakzai@acm.org)  
+[Seventick Blog](https://seventick.com/view-posts/)  
+[Email](zachakzai@acm.org)  
 [LinkedIn](https://pk.linkedin.com/in/zahoor-ahmed-0a7793209)  
