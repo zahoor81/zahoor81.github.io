@@ -202,7 +202,8 @@ Founder Seventick
 **Gallery**
 [Representing ACM in Quetta Literary Festival 2022](images/Rep acm.jpeg)  
 [Group photo: Balochistan Think Tank Network](images/BTTN Group phto.jpeg)  
-[Certificate and Price Recieving Ceremony BTTN](images/price reciv.jpeg) (images/Check recv.jpeg)
+[Certificate and Price Recieving Ceremony BTTN](images/price reciv.jpeg) (images/Check recv.jpeg)  
+[Talk at BTTN Center](images/BTTN SPEECH.jpeg)
 
 
 [Seventick Blog](https://www.seventick.com)
