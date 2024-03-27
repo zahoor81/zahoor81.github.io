@@ -48,9 +48,6 @@ development, natural language processing, and machine learning.
 - Research Paper Presenter: 18th Annual International Conference on Emerging Technologies (FAST NUCES, Peshawer, 2023)
 - Session Presenter: Workshop on Undergrad Education in Pakistan [Source](https://pk.linkedin.com/company/carlteck)
 - Session Presenter: Association for Computing Machinery, BUITEMS Chapter (2022-23)
-[Image](Zahoor Profile.jpeg)
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
 ## Publications & Articles
 1. H. Mohiuddin, **Z. Ahmed**, M. Kasi and B. Kasi, "UrduSpeakXLSR: Multilingual Model for Urdu Speech Recognition," 2023 18th International Conference on Emerging Technologies (ICET), Peshawar, Pakistan, 2023, pp. 217-221, doi: 10.1109/ICET59753.2023.10374900.
 2. Social Media and The Youth Protest Behaviour (Featured Article Voice of Balochistan, 2022): [Article](https://voiceofbalochistan.pk/newsletter/half-yearly-newsletter-2022/)
